@@ -1,4 +1,6 @@
-<image src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" alt="Bumi Denpasar" align="center">
+<p align="center">
+<image src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" alt="Bumi Denpasar">
+</p>
 
 <p align="center">
 A fullstack developer with experience in building user-friendly and robust web applications using JavaScript and Python.<br>
